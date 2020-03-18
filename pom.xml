@@ -7,6 +7,13 @@
     <groupId>me.kingtux</groupId>
     <artifactId>jsonbuilder</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <developers>
+        <developer>
+            <name>Wyatt J Herkamp</name>
+            <email>wherkamp@kingtux.me</email>
+        </developer>
+    </developers>
     <distributionManagement>
         <repository>
             <id>kingtux-repo</id>
